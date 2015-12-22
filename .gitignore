@@ -1,5 +1,5 @@
 apps/*
 certs/*
-conf.d-/*
+conf.d/*
 hosts
 Dockerfile
