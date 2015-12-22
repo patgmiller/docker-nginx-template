@@ -1,0 +1,5 @@
+app/*
+certs/*
+conf.d/*
+hosts
+Dockerfile
